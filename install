@@ -5,3 +5,4 @@ echo= apt install -y curl
 curl -LO https://raw.githubusercontent.com/Cabbagec/termux-ohmyzsh/master/install.sh
 echo= chmod +x install.sh
 echo= sh install.sh
+echo= rm -r install.sh
