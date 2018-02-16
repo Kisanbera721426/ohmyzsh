@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin/bash
+echo= cd /data/data/com.termux/home/.termux/
+echo= ./colors.sh

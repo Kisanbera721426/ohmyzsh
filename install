@@ -1,0 +1,7 @@
+#!/data/data/com.termux/files/usr/bin/bash
+echo "INSTALLING OH MY ZSH" 
+echo "copyrighted by https://github.com/Cabbagec/termux-ohmyzsh"
+echo= apt install -y curl
+curl -LO https://raw.githubusercontent.com/Cabbagec/termux-ohmyzsh/master/install.sh
+echo= chmod +x install.sh
+echo= sh install.sh
